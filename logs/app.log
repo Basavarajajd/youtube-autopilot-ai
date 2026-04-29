@@ -1,0 +1,78 @@
+2026-04-29 09:48:01 | INFO     | __main__:<module>:1 - Logger working 🚀
+2026-04-29 09:49:15 | INFO     | core.database:init_db:41 - Creating database tables...
+2026-04-29 09:49:15 | INFO     | core.database:init_db:43 - Database ready.
+2026-04-29 10:35:20 | INFO     | __main__:__init__:17 - 🧠 Master Orchestrator initialized
+2026-04-29 10:35:20 | INFO     | __main__:run_daily_cycle:23 - 🚀 Starting Daily Autopilot Cycle
+2026-04-29 10:35:20 | INFO     | __main__:collect_trends:38 - 🔥 Collecting viral trends...
+2026-04-29 10:35:20 | INFO     | __main__:generate_videos:41 - 🎬 Generating long-form videos...
+2026-04-29 10:35:20 | INFO     | __main__:generate_shorts:44 - ⚡ Generating Shorts...
+2026-04-29 10:35:20 | INFO     | __main__:upload_content:47 - 📤 Uploading content to YouTube...
+2026-04-29 10:35:20 | INFO     | __main__:check_analytics:50 - 📊 Fetching analytics...
+2026-04-29 10:35:20 | INFO     | __main__:run_daily_cycle:31 - ✅ Daily cycle completed
+2026-04-29 10:36:32 | INFO     | ai_brain.decision_engine:__init__:16 - 🧠 Decision Engine ready
+2026-04-29 10:36:32 | INFO     | ai_brain.decision_engine:choose_niche:34 - 🎯 Selected niche: Crypto education
+2026-04-29 10:36:32 | INFO     | ai_brain.decision_engine:videos_to_create:42 - 🎬 Videos to create today: 2
+2026-04-29 10:36:32 | INFO     | ai_brain.decision_engine:shorts_to_create:50 - ⚡ Shorts to create today: 3
+2026-04-29 11:19:31 | INFO     | ai_brain.decision_engine:__init__:16 - 🧠 Decision Engine ready
+2026-04-29 11:19:31 | INFO     | __main__:__init__:19 - 🧠 Master Orchestrator initialized
+2026-04-29 11:19:31 | INFO     | __main__:run_daily_cycle:25 - 🚀 Starting Daily Autopilot Cycle
+2026-04-29 11:19:31 | INFO     | ai_brain.decision_engine:choose_niche:34 - 🎯 Selected niche: Make money online
+2026-04-29 11:19:31 | INFO     | ai_brain.decision_engine:videos_to_create:42 - 🎬 Videos to create today: 3
+2026-04-29 11:19:31 | INFO     | ai_brain.decision_engine:shorts_to_create:50 - ⚡ Shorts to create today: 4
+2026-04-29 11:19:31 | INFO     | __main__:collect_trends:44 - 🔥 Collecting viral trends in niche: Make money online
+2026-04-29 11:19:31 | INFO     | __main__:generate_videos:48 - 🎬 Generating video 1/3
+2026-04-29 11:19:31 | INFO     | __main__:generate_videos:48 - 🎬 Generating video 2/3
+2026-04-29 11:19:31 | INFO     | __main__:generate_videos:48 - 🎬 Generating video 3/3
+2026-04-29 11:19:31 | INFO     | __main__:generate_shorts:52 - ⚡ Generating short 1/4
+2026-04-29 11:19:31 | INFO     | __main__:generate_shorts:52 - ⚡ Generating short 2/4
+2026-04-29 11:19:31 | INFO     | __main__:generate_shorts:52 - ⚡ Generating short 3/4
+2026-04-29 11:19:31 | INFO     | __main__:generate_shorts:52 - ⚡ Generating short 4/4
+2026-04-29 11:19:31 | INFO     | __main__:upload_content:55 - 📤 Uploading content to YouTube...
+2026-04-29 11:19:31 | INFO     | __main__:check_analytics:58 - 📊 Fetching analytics...
+2026-04-29 11:19:31 | INFO     | __main__:run_daily_cycle:37 - ✅ Daily cycle completed
+2026-04-29 11:20:51 | INFO     | engines.trends.trend_fusion_ai:__init__:12 - 🔥 TrendFusion AI ready
+2026-04-29 11:20:51 | INFO     | engines.trends.trend_fusion_ai:generate_topics:27 - 🔎 Generating topics for niche: AI tools
+2026-04-29 11:20:51 | INFO     | engines.trends.trend_fusion_ai:generate_topics:35 - ✅ Generated 5 topics
+2026-04-29 11:22:35 | INFO     | ai_brain.decision_engine:__init__:16 - 🧠 Decision Engine ready
+2026-04-29 11:22:35 | INFO     | engines.trends.trend_fusion_ai:__init__:12 - 🔥 TrendFusion AI ready
+2026-04-29 11:22:35 | INFO     | __main__:__init__:19 - 🧠 Master Orchestrator initialized
+2026-04-29 11:22:35 | INFO     | __main__:run_daily_cycle:24 - 🚀 Starting Daily Autopilot Cycle
+2026-04-29 11:22:35 | INFO     | ai_brain.decision_engine:choose_niche:34 - 🎯 Selected niche: Crypto education
+2026-04-29 11:22:35 | INFO     | ai_brain.decision_engine:videos_to_create:42 - 🎬 Videos to create today: 2
+2026-04-29 11:22:35 | INFO     | ai_brain.decision_engine:shorts_to_create:50 - ⚡ Shorts to create today: 2
+2026-04-29 11:22:35 | INFO     | engines.trends.trend_fusion_ai:generate_topics:27 - 🔎 Generating topics for niche: Crypto education
+2026-04-29 11:22:35 | INFO     | engines.trends.trend_fusion_ai:generate_topics:35 - ✅ Generated 10 topics
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:45 - 🔥 Viral topics for today:
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • Avoid these Crypto education mistakes
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • Avoid these Crypto education mistakes
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • Top 5 Crypto education in 2026
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • The dark side of Crypto education
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • Crypto education that actually works
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • I tried Crypto education for 30 days
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • Crypto education that actually works
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • Crypto education that actually works
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • Top 5 Crypto education in 2026
+2026-04-29 11:22:35 | INFO     | __main__:collect_trends:47 -    • How I made money using Crypto education
+2026-04-29 11:22:35 | INFO     | __main__:generate_videos:55 - 🎬 Selected topics for videos:
+2026-04-29 11:22:35 | INFO     | __main__:generate_videos:58 -    1. Avoid these Crypto education mistakes
+2026-04-29 11:22:35 | INFO     | __main__:generate_videos:58 -    2. Avoid these Crypto education mistakes
+2026-04-29 11:22:35 | INFO     | __main__:generate_shorts:64 - ⚡ Generating short 1/2
+2026-04-29 11:22:35 | INFO     | __main__:generate_shorts:64 - ⚡ Generating short 2/2
+2026-04-29 11:22:35 | INFO     | __main__:upload_content:67 - 📤 Uploading content to YouTube...
+2026-04-29 11:22:35 | INFO     | __main__:check_analytics:70 - 📊 Fetching analytics...
+2026-04-29 11:22:35 | INFO     | __main__:run_daily_cycle:38 - ✅ Daily cycle completed
+2026-04-29 11:23:48 | INFO     | engines.video.script_writer:__init__:12 - ✍️ ScriptWriter AI ready
+2026-04-29 11:23:48 | INFO     | engines.video.script_writer:generate_script:17 - 📝 Writing script for: AI tools for beginners
+2026-04-29 11:23:48 | INFO     | engines.video.script_writer:generate_script:28 - ✅ Script generated
+2026-04-29 11:25:36 | INFO     | __main__:run_autopilot:10 - 🤖 YOUTUBE AUTOPILOT STARTED
+2026-04-29 11:25:36 | INFO     | ai_brain.memory:__init__:12 - 🧠 Creating new brain memory
+2026-04-29 11:25:36 | INFO     | engines.trends.trend_fusion_ai:__init__:12 - 🔥 TrendFusion AI ready
+2026-04-29 11:25:36 | INFO     | engines.video.script_writer:__init__:12 - ✍️ ScriptWriter AI ready
+2026-04-29 11:25:36 | INFO     | engines.trends.trend_fusion_ai:generate_topics:27 - 🔎 Generating topics for niche: AI tools
+2026-04-29 11:25:36 | INFO     | engines.trends.trend_fusion_ai:generate_topics:35 - ✅ Generated 5 topics
+2026-04-29 11:25:36 | INFO     | __main__:run_autopilot:25 - 🔥 Selected topic: The dark side of AI tools
+2026-04-29 11:25:36 | INFO     | ai_brain.memory:save:24 - 💾 Saving to brain: last_topic
+2026-04-29 11:25:36 | INFO     | engines.video.script_writer:generate_script:17 - 📝 Writing script for: The dark side of AI tools
+2026-04-29 11:25:36 | INFO     | engines.video.script_writer:generate_script:28 - ✅ Script generated
+2026-04-29 11:25:36 | INFO     | ai_brain.memory:save:24 - 💾 Saving to brain: last_script
+2026-04-29 11:25:36 | INFO     | __main__:run_autopilot:36 - 🎬 Video script ready!

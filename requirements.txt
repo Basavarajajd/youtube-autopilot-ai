@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.13
+loguru==0.7.2
+python-dotenv==1.0.1
+redis==5.0.4
+celery==5.3.6
+sqlalchemy==1.4.52
+aiosqlite==0.20.0
+requests==2.31.0
